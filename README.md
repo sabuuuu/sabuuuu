@@ -24,7 +24,8 @@
 
 ###
 
-<h1 align="center">hey there 👋 Hi, I'm Sabrina, Compsci student & Software Developer from Algeria</h1>
+<h1 align="center">Hi👋, I'm Sabrina, Compsci student & Software Developer from Algeria</h1>
+
 
 ###
 
@@ -72,8 +73,6 @@
 </div>
 
 ###
-
-<img src="snake.yml" alt="Snake animation" />
 
 ###
 
