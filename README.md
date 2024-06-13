@@ -4,7 +4,7 @@
 
 **About Me**
 
-Hi! I'm Sabrina, a passionate software developer currently studying computer science. 
+Hi! I'm Sabrina, a passionate software developer currently studying Sofware engineering. 
 
 **Skills**
 
@@ -21,12 +21,10 @@ Hi! I'm Sabrina, a passionate software developer currently studying computer sci
 
 **Connect**
 
-* [Website](https://visitor-badge.laobi.icu/badge?page_id=sabuuuu.sabuuuu&) (optional, add if you have one)
+* [Website](https://web-portfolio-gjscps1yz-sabrinas-projects-29649bee.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/sabrina-yafa-507389256/)
-* [Instagram](https://www.instagram.com/heradhes/) (optional)
+* [Instagram](https://www.instagram.com/sabriina.yf/)
 
 **Let's collaborate!**
 
 Feel free to reach out for projects or discussions.
-
-(you can add your email here if you'd like)
