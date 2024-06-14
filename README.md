@@ -1,9 +1,11 @@
-** Hey, I'm Sabrina! 👋 **
+**Hey, I'm Sabrina! 👋**
+
 I'm a Software Engineering student passionate about creating innovative and user-friendly applications. I enjoy exploring new technologies, building projects, and sharing knowledge with others.
 
 I've been deeply involved in web and mobile development through various personal and university projects. Currently, I'm pursuing a Master's degree in Software Engineering while actively contributing to the tech community.
 
-** 🌟 What I'm Into **
+**🌟 What I'm Into**
+
 - Web Development: Crafting responsive and dynamic websites with JavaScript, React, and Node.js.
 - Mobile Development: Building cross-platform mobile apps using Flutter.
 - Community Building: Encouraging others to dive into the tech industry and sharing my journey.
