@@ -1,7 +1,7 @@
 <h1 align="center">Sabrina | Full-Stack Software Engineer</h1>
 
 <p align="center">
-  Passionate about building clean, efficient, and scalable web applications.<br>
+  Software developer with a soft spot for clean UI, scalable systems, and code that doesn’t make future-me cry.<br>
   Focused on full-stack development, system design, and writing production-ready code.
 </p>
 
