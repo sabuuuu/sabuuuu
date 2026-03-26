@@ -1,42 +1,76 @@
-<h1 align="center">Sabrina | Full-Stack Software Engineer</h1>
+<h1 align="center">hey, I'm Sabrina 👋</h1>
 
 <p align="center">
-  Software developer with a soft spot for clean UI, scalable systems, and code that doesn’t make future-me cry.<br>
-  Focused on full-stack development, system design, and writing production-ready code.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Full-stack+engineer+%7C+TypeScript+%2B+React+%2F+Next.js;Building+clinical+AI+for+MS+diagnosis+%F0%9F%A7%A0;Clean+code%2C+clean+UI%2C+chaotic+energy.;Built+with+TypeScript+and+tea." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:yafasabb@gmail.com"><img src="https://img.shields.io/badge/-email-000?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yafasabrina00"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sabrinayafa.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-111?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧭 About Me
+### `$ whoami`
 
-- 🎓 Recently graduated with a Master's in Software Engineering
-- 💻 I specialize in **TypeScript**, **React/Next.js**, **Node.js/NestJS**, and **Prisma/PostgreSQL**
-- 🧠 Currently exploring **DevOps**, **Security Engineering**, and **Machine Learning** to deepen my engineering toolkit
-- 🛠️ I build both personal projects and production-grade apps that solve real problems
-- 🌍 Based in Algeria, open to **remote roles, internships, and collaborative projects**
-
----
-
-### 🧰 Tech I Actually Use
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat&logo=nestjs)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+```ts
+const sabrina = {
+  role: "Full-Stack Software Engineer",
+  location: "Algeria 🇩🇿 — open to remote worldwide",
+  currentlyBuilding: "NeuroMed — a clinical AI platform for MS diagnosis",
+  stack: ["TypeScript", "React/Next.js", "NestJS", "Prisma", "Flutter", "PyTorch"],
+  exploring: ["DevOps", "Security Engineering", "Machine Learning"],
+  status: "Freelancing across multiple clients · from conception to production",
+};
+```
 
 ---
 
-### 🤝 Let’s Connect
+### 🧠 what I'm working on
 
-- 📫 [Email me](mailto:yafasabb@gmail.com)
-- 🧠 [LinkedIn](www.linkedin.com/in/yafasabrina00)  
-- 👀 [Check out my portfolio](https://sabrinayafa.vercel.app/)
+- **NeuroMed** — a modular clinical platform that assists physicians in diagnosing Multiple Sclerosis. Cognitive assessments → structured scores → AI-generated diagnostic reports reviewed by doctors. Built a local deep learning pipeline with **PyTorch + MONAI** to process **DICOM** MRI files.
+- **Freelance fullstack work** — building production web apps for multiple clients: React, Next.js, TanStack, Supabase, PostgreSQL, test coverage, the works.
+
+---
+
+### 🛠️ tech I actually use
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 📊 github activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabuuuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuuuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabuuuu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📌 a few things worth knowing
+
+- 🎓 Master's in Software Engineering — thesis scored **18/20**
+- 💬 English (C1 · IELTS), French (native), Arabic (native)
+- 🚀 I went from zero to contributing features on an existing React Native + Next.js codebase **in the first week** at Innovia, no onboarding needed
+- 🤝 comfortable in agile teams: standups, sprint planning, code reviews, retros
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Clean+code,+clean+UI,+chaotic+energy.;Built+with+TypeScript+and+tea.;Now+accepting+cool+collabs+%F0%9F%92%8E" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=sabuuuu&label=profile+views&color=blueviolet&style=flat" />
 </p>
