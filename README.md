@@ -1,11 +1,11 @@
 <h1 align="center">hey, I'm Sabrina 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Full-stack+engineer+%7C+TypeScript+%2B+React+%2F+Next.js;Building+clinical+AI+for+MS+diagnosis+%F0%9F%A7%A0;Clean+code%2C+clean+UI%2C+chaotic+energy.;Built+with+TypeScript+and+tea." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=45&lines=full-stack+engineer+%E2%80%94+TypeScript+%2B+React+%2F+Next.js;building+clinical+AI+for+MS+diagnosis+%F0%9F%A7%A0;clean+code%2C+clean+UI%2C+chaotic+energy;built+with+TypeScript+and+tea." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:yafasabb@gmail.com"><img src="https://img.shields.io/badge/-email-000?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#97eef6f1f6e4f6f5f5d7f0faf6fefbb9f4f8fa"><img src="https://img.shields.io/badge/-email-000?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yafasabrina00"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://sabrinayafa.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-111?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
@@ -21,7 +21,7 @@ const sabrina = {
   currentlyBuilding: "NeuroMed — a clinical AI platform for MS diagnosis",
   stack: ["TypeScript", "React/Next.js", "NestJS", "Prisma", "Flutter", "PyTorch"],
   exploring: ["DevOps", "Security Engineering", "Machine Learning"],
-  status: "Freelancing across multiple clients · from conception to production",
+  status: "available for remote · fullstack · web & mobile",
 };
 ```
 
@@ -52,12 +52,11 @@ const sabrina = {
 ### 📊 github activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabuuuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuuuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+  <img src="https://streak-stats.demolab.com?user=sabuuuu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabuuuu&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuuuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" />
 </p>
 
 ---
@@ -66,11 +65,10 @@ const sabrina = {
 
 - 🎓 Master's in Software Engineering — thesis scored **18/20**
 - 💬 English (C1 · IELTS), French (native), Arabic (native)
-- 🚀 I went from zero to contributing features on an existing React Native + Next.js codebase **in the first week** at Innovia, no onboarding needed
+- 🚀 comfortable jumping into existing codebases cold — no ramp-up needed
 - 🤝 comfortable in agile teams: standups, sprint planning, code reviews, retros
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabuuuu&label=profile+views&color=blueviolet&style=flat" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=sabuuuu&label=profile+vi
