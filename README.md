@@ -1,7 +1,7 @@
 <h1 align="center">hey, I'm Sabrina 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=45&lines=full-stack+engineer+%E2%80%94+TypeScript+%2B+React+%2F+Next.js;building+clinical+AI+for+MS+diagnosis+%F0%9F%A7%A0;clean+code%2C+clean+UI%2C+chaotic+energy;built+with+TypeScript+and+tea." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=45&lines=full-stack+engineer+%7C+TypeScript+%2B+React+%2F+Next.js;building+clinical+AI+for+MS+diagnosis+%F0%9F%A7%A0;clean+code%2C+clean+UI%2C+chaotic+energy;built+with+TypeScript+and+tea." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 ```ts
 const sabrina = {
   role: "Full-Stack Software Engineer",
-  location: "Algeria 🇩🇿 — open to remote worldwide",
-  currentlyBuilding: "NeuroMed — a clinical AI platform for MS diagnosis",
+  location: "Algeria 🇩🇿, open to remote worldwide",
+  currentlyBuilding: "NeuroMed, a clinical AI platform for MS diagnosis",
   stack: ["TypeScript", "React/Next.js", "NestJS", "Prisma", "Flutter", "PyTorch"],
   exploring: ["DevOps", "Security Engineering", "Machine Learning"],
   status: "available for remote · fullstack · web & mobile",
@@ -29,8 +29,8 @@ const sabrina = {
 
 ### 🧠 what I'm working on
 
-- **NeuroMed** — a modular clinical platform that assists physicians in diagnosing Multiple Sclerosis. Cognitive assessments → structured scores → AI-generated diagnostic reports reviewed by doctors. Built a local deep learning pipeline with **PyTorch + MONAI** to process **DICOM** MRI files.
-- **Freelance fullstack work** — building production web apps for multiple clients: React, Next.js, TanStack, Supabase, PostgreSQL, test coverage, the works.
+- **NeuroMed** · a modular clinical platform that assists physicians in diagnosing Multiple Sclerosis. Cognitive assessments → structured scores → AI-generated diagnostic reports reviewed by doctors. Built a local deep learning pipeline with **PyTorch + MONAI** to process **DICOM** MRI files.
+- **Freelance fullstack work** · building production web apps for multiple clients: React, Next.js, TanStack, Supabase, PostgreSQL, test coverage, the works.
 
 ---
 
@@ -63,9 +63,9 @@ const sabrina = {
 
 ### 📌 a few things worth knowing
 
-- 🎓 Master's in Software Engineering — thesis scored **18/20**
+- 🎓 Master's in Software Engineering, thesis scored **18/20**
 - 💬 English (C1 · IELTS), French (native), Arabic (native)
-- 🚀 comfortable jumping into existing codebases cold — no ramp-up needed
+- 🚀 comfortable jumping into existing codebases cold, no ramp-up needed
 - 🤝 comfortable in agile teams: standups, sprint planning, code reviews, retros
 
 ---
