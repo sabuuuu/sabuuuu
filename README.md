@@ -55,9 +55,7 @@ const sabrina = {
   <img src="https://streak-stats.demolab.com?user=sabuuuu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuuuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" />
-</p>
+
 
 ---
 
