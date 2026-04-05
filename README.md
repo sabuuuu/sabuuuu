@@ -1,7 +1,7 @@
 <h1 align="center">hey, I'm Sabrina 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=45&lines=full-stack+engineer+%7C+TypeScript+%2B+React+%2F+Next.js;building+clinical+AI+for+MS+diagnosis+%F0%9F%A7%A0;clean+code%2C+clean+UI%2C+chaotic+energy;built+with+TypeScript+and+tea." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=45&lines=full-stack+engineer+%7C+TypeScript+%2B+React+%2F+Next.js;clean+code%2C+clean+UI%2C+chaotic+energy;built+with+TypeScript+and+tea." alt="Typing SVG" />
 </p>
 
 <p align="center">
