@@ -18,19 +18,11 @@
 const sabrina = {
   role: "Full-Stack Software Engineer",
   location: "Algeria 🇩🇿, open to remote worldwide",
-  currentlyBuilding: "NeuroMed, a clinical AI platform for MS diagnosis",
   stack: ["TypeScript", "React/Next.js", "NestJS", "Prisma", "Flutter", "PyTorch", "Laravel"],
   exploring: ["DevOps", "Security Engineering", "Machine Learning"],
   status: "available for remote · fullstack · web & mobile",
 };
 ```
-
----
-
-### 🧠 what I'm working on
-
-- **NeuroMed** · a modular clinical platform that assists physicians in diagnosing Multiple Sclerosis. Cognitive assessments → structured scores → AI-generated diagnostic reports reviewed by doctors. Built a local deep learning pipeline with **PyTorch + MONAI** to process **DICOM** MRI files.
-- **Freelance fullstack work** · building production web apps for multiple clients: React, Next.js, TanStack, Supabase, PostgreSQL, test coverage, the works.
 
 ---
 
