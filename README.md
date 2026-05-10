@@ -8,13 +8,6 @@
 
 <div align="center">
 
-```
-          she has read the whole codebase.
-              she already knows.
-```
-
-<br/>
-
 # 𝚂𝙰𝙱𝚁𝙸𝙽𝙰 𝚈𝙰𝙵𝙰
 
 **`full-stack engineer`** &nbsp;·&nbsp; Algeria 🇩🇿 &nbsp;·&nbsp; open to remote
