@@ -53,7 +53,9 @@ const sabrina = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuuuu&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=8B7D6B&text_color=cccccc&icon_color=8B7D6B" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabuuuu&theme=github_dark&exclude=&" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabuuuu&theme=github_dark" />
 </p>
 
 ---
