@@ -91,7 +91,7 @@ const sabrina = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2a1f1a,3d2b1f,1a1a1a&height=80&section=footer&reversal=true" />
+
 
 <img src="https://komarev.com/ghpvc/?username=sabuuuu&label=visited&color=b5956a&style=flat" />
 
