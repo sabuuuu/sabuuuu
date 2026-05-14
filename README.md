@@ -29,7 +29,6 @@
 ```ts
 const sabrina = {
   builds:     "end-to-end — schema to pixel",
-  reads:      "codebases the way others read maps. cold. fast.",
   speaks:     ["TypeScript", "French", "Arabic", "English", "legacy code"],
   thesis:     { score: "18/20", field: "Software Engineering" },
   exploring:  ["DevOps", "Security Engineering", "Machine Learning"],
