@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5956A&center=true&vCenter=true&width=600&lines=Building+end-to-end+systems+that+solve+real+problems;ERP+integration+%C2%B7+automation+%C2%B7+web+%26+mobile;From+a+messy+Excel+sheet+to+a+working+product" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5956A&center=true&vCenter=true&width=600&lines=+Building+end-to-end+systems+that+solve+real+problems;ERP+integration+%C2%B7+automation+%C2%B7+web+%26+mobile;From+a+messy+Excel+sheet+to+a+working+product" alt="Typing SVG" />
 
 <br/>
 
@@ -107,13 +107,26 @@ const sabrina = {
 
 <table>
 <tr>
+<td width="100%" valign="top">
+
+**🚀 Prospection B2B Automatisée — Odoo CRM**
+<br/>
+Pipeline autonome de détection, qualification et enrichissement de prospects B2B, avec synchronisation bidirectionnelle dans Odoo CRM (`crm.lead` + `res.partner`).
+<br/><br/>
+Détection multi-sources (API publiques, enrichissement web), filtrage intelligent des cibles à haute valeur, briefing commercial généré par IA (Claude) avant chaque rendez-vous, et alimentation automatique des champs Odoo Studio. Tourne en autonomie chaque soir via GitHub Actions.
+<br/><br/>
+`Python` `Odoo API` `Claude API` `GitHub Actions` `Retry & resilient HTTP sessions`
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
-**🧬 Dyecode**
+**🩻 Clinical Diagnostic Platform**
 <br/>
-Hair-dye outcome simulator built on real color-theory & pigment science, not AI filters.
+Deep learning pipeline for DICOM medical imaging analysis, integrated into a clinical platform generating AI diagnostic reports submitted to physician validation.
 <br/>
-`Next.js` `chroma-js` `Canvas API`
+`PyTorch` `MONAI` `FastAPI` `NestJS`
 
 </td>
 <td width="33%" valign="top">
