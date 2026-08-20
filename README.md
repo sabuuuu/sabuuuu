@@ -107,10 +107,10 @@ const sabrina = {
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td colspan="3" valign="top">
 
-**🚀 Prospection B2B Automatisée — Odoo CRM**
-<br/>
+### 🚀 Prospection B2B Automatisée — Odoo CRM
+
 Pipeline autonome de détection, qualification et enrichissement de prospects B2B, avec synchronisation bidirectionnelle dans Odoo CRM (`crm.lead` + `res.partner`).
 <br/><br/>
 Détection multi-sources (API publiques, enrichissement web), filtrage intelligent des cibles à haute valeur, briefing commercial généré par IA (Claude) avant chaque rendez-vous, et alimentation automatique des champs Odoo Studio. Tourne en autonomie chaque soir via GitHub Actions.
@@ -118,6 +118,9 @@ Détection multi-sources (API publiques, enrichissement web), filtrage intellige
 `Python` `Odoo API` `Claude API` `GitHub Actions` `Retry & resilient HTTP sessions`
 
 </td>
+</tr>
+<tr>
+<td colspan="3"><br/></td>
 </tr>
 <tr>
 <td width="33%" valign="top">
