@@ -83,7 +83,6 @@ const sabrina = {
 **AI, Data & Infrastructure**
 <br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-0d0d0d?style=flat-square&logo=anthropic&logoColor=D97706)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=336791)
 ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=DC382D)
 ![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=flat-square&logo=prisma&logoColor=white)
