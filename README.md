@@ -26,10 +26,10 @@
 
 <div align="center">
 
-| 🧩 ERP & Automation | 💻 Web & Mobile | 🤖 AI-assisted tooling |
+| 🧩 ERP & Workflow Automation | 💻 Full-Stack & Mobile | 🤖 Applied AI & Intelligence |
 |:---:|:---:|:---:|
-| Odoo integration & customization for SMEs | React / Next.js / NestJS end-to-end products | AI-powered features, from prototype to production |
-| Turning manual processes into automated workflows | Flutter mobile apps | Practical automation, not hype |
+| Tailored Odoo modules, XML-RPC & REST bridges | End-to-end web apps with Next.js, React & NestJS | Production LLM pipelines, agents & automated briefings |
+| Replacing manual bottlenecks with resilient background sync | Cross-platform mobile development with Flutter | Domain-specific deep learning & diagnostic pipelines |
 
 </div>
 
