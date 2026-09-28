@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2a1f1a,3d2b1f,1a1a1a&height=180&section=header&reversal=true&animation=fadeIn&text=SABRINA%20YAFA&fontColor=eeeeee&fontSize=42&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20Odoo%20%26%20Automation&descAlignY=58&descSize=18&descColor=b5956a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f1a,50:3d2b1f,100:1a1a1a&height=180&section=header&reversal=true&animation=fadeIn&text=SABRINA%20YAFA&fontColor=eeeeee&fontSize=42&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Odoo%20%26amp%3B%20Automation&descAlignY=58&descSize=18&descColor=b5956a" />
 </div>
 
 <div align="center">
@@ -169,6 +169,6 @@ Idempotent synchronization bridge between ZKTeco biometric attendance terminals 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2a1f1a,3d2b1f,1a1a1a&height=100&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f1a,50:3d2b1f,100:1a1a1a&height=100&section=footer&reversal=true" />
 
 </div>
