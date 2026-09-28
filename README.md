@@ -165,7 +165,7 @@ Idempotent synchronization bridge between ZKTeco biometric attendance terminals 
 
 <div align="center">
 
-*ERP & automation for Algerian businesses &nbsp;·&nbsp; end-to-end product builds &nbsp;·&nbsp; comfortable dropping into existing codebases*
+*ERP & automation for businesses &nbsp;·&nbsp; end-to-end product builds &nbsp;·&nbsp; comfortable dropping into existing codebases*
 
 <br/>
 
