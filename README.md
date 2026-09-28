@@ -41,12 +41,13 @@
 
 ```ts
 const sabrina = {
-  builds:     "end-to-end systems — from a client's messy Excel sheet to a working product",
-  focus:      ["Odoo / ERP integration", "business automation", "web & mobile apps"],
-  speaks:     ["TypeScript", "Python", "French", "Arabic", "English"],
+  role:       "Full-Stack Engineer & Automation Architect",
+  focus:      ["ERP Architecture (Odoo)", "Workflow & Data Automation", "Applied AI Pipelines"],
+  code:       ["TypeScript", "Python", "SQL", "Dart", "PHP"],
+  spoken:     ["English (Fluent)", "French (Bilingual)", "Arabic (Native)"],
   thesis:     { score: "18/20", field: "Software Engineering" },
-  exploring:  ["DevOps", "Security Engineering", "Machine Learning"],
-  status:     "open for freelance & consulting missions · Algeria-based",
+  motto:      "Transforming complex manual operations into resilient, self-healing systems",
+  status:     "open for freelance, consulting & remote engineering contracts",
 } as const;
 ```
 
@@ -67,20 +68,30 @@ const sabrina = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178c6)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
 ![Odoo](https://img.shields.io/badge/Odoo-0d0d0d?style=flat-square&logo=odoo&logoColor=714B67)
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&logo=php&logoColor=8892BE)
-![Laravel](https://img.shields.io/badge/Laravel-0d0d0d?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=flat-square&logo=nestjs&logoColor=e0234e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=009688)
 ![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=flat-square&logo=dart&logoColor=0175C2)
+![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&logo=php&logoColor=8892BE)
+![Laravel](https://img.shields.io/badge/Laravel-0d0d0d?style=flat-square&logo=laravel&logoColor=FF2D20)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 
-**Data & Infra**
 <br/>
+
+**AI, Data & Infrastructure**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-0d0d0d?style=flat-square&logo=anthropic&logoColor=D97706)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=DC382D)
 ![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=github-actions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=FF6C37)
 
 </td>
 <td valign="top" width="50%">
