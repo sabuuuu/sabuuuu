@@ -87,7 +87,7 @@ const sabrina = {
 
 **GitHub Stats**
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=sabuuuu&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=b5956a&icon_color=b5956a&text_color=eeeeee" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sabuuuu&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=b5956a&icon_color=b5956a&text_color=eeeeee" width="100%"/>
 
 **Streak**
 <br/>
@@ -165,7 +165,7 @@ Idempotent synchronization bridge between ZKTeco biometric attendance terminals 
 
 <div align="center">
 
-*ERP & automation for businesses &nbsp;·&nbsp; end-to-end product builds &nbsp;·&nbsp; comfortable dropping into existing codebases*
+*ERP integrations & business automation &nbsp;·&nbsp; end-to-end product engineering &nbsp;·&nbsp; comfortable dropping into existing codebases*
 
 <br/>
 
