@@ -109,11 +109,11 @@ const sabrina = {
 <tr>
 <td colspan="3" valign="top">
 
-### 🚀 Prospection B2B Automatisée — Odoo CRM
+### 🚀 Automated B2B Prospecting — Odoo CRM
 
-Pipeline autonome de détection, qualification et enrichissement de prospects B2B, avec synchronisation bidirectionnelle dans Odoo CRM (`crm.lead` + `res.partner`).
+Autonomous pipeline for detecting, qualifying, and enriching B2B leads, featuring bidirectional synchronization with Odoo CRM (`crm.lead` + `res.partner`).
 <br/><br/>
-Détection multi-sources (API publiques, enrichissement web), filtrage intelligent des cibles à haute valeur, briefing commercial généré par IA (Claude) avant chaque rendez-vous, et alimentation automatique des champs Odoo Studio. Tourne en autonomie chaque soir via GitHub Actions.
+Multi-source lead ingestion (public APIs, web enrichment), high-value target filtering, AI-generated sales briefings (Claude) prior to meetings, and automated population of custom Odoo Studio fields. Runs autonomously every night via GitHub Actions.
 <br/><br/>
 `Python` `Odoo API` `Claude API` `GitHub Actions` `Retry & resilient HTTP sessions`
 
@@ -143,11 +143,11 @@ Spaced-repetition mobile app based on the Ebbinghaus forgetting curve — automa
 </td>
 <td width="33%" valign="top">
 
-**💸 FinTrack**
+**⏱️ BioTime-Odoo Connector**
 <br/>
-Savings-goal planner: monthly targets, progress tracking, multi-currency.
+Idempotent synchronization bridge between ZKTeco biometric attendance terminals and Odoo (`hr.attendance`) — smart shift pairing & Excel audit engine.
 <br/>
-`Laravel` `Inertia.js` `React`
+`Python` `Odoo XML-RPC` `BioTime REST API`
 
 </td>
 </tr>
